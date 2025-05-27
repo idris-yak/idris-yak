@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @idris-yak
 - 👀 I’m interested in ...github
-- 🌱 I’m currently learning ...Javascript
+- 🌱 I’m currently learning ... python 
 - 💞️ I’m looking to collaborate on ...NITDA
 - 📫 How to reach me ...07034998454
 
